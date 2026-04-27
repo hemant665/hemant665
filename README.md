@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React.js, TypeScript & Micro Architecture
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant665" alt="hemant665" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant665" alt="hemant665" /></a> </p> -->
 
 - 🔭 I'm currently working on **M-Qube - Business Platform**
 
