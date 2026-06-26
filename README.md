@@ -4,7 +4,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant665" alt="hemant665" /></a> </p> -->
 
-- 🔭 I'm currently working on **M-Qube - Business Platform**
+- 🔭 I'm currently working on **Merischolarship - Education Platform**
+
+- - 🔭 I'm recently worked on **M-Qube - Business Platform**
 
 - 🌱 I'm currently learning **Advanced TypeScript and Performance Optimization**
 
