@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Merischolarship - Education Platform**
 
-- - 🔭 I'm recently worked on **M-Qube - Business Platform**
+- 🔭 I'm recently worked on **M-Qube - Business Platform**
 
 - 🌱 I'm currently learning **Advanced TypeScript and Performance Optimization**
 
